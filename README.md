@@ -1,4 +1,4 @@
-# Athletics Competition Database
+# Modeliranje i implementacija baze podataka atletskih natjecanj
 
 Projekt iz kolegija *Baze podataka* koji obuhvaća modeliranje relacijske baze podataka za evidenciju atletskih natjecanja te izradu SQL upita za dohvat i analizu podataka.
 
@@ -59,6 +59,6 @@ Upiti obuhvaćaju:
 - Primarni i strani ključevi
 - Normalizacija baza podataka
 
-## Sadržaj repozitorija
-
-Projektna dokumentacija obuhvaća konceptualni model, relacijsku shemu, rječnik podataka, analizu normalizacije te SQL upite s objašnjenjima njihove funkcionalnosti.
+## Dokumenti
+database_design_and_normalization.pdf
+sql_queries.pdf
