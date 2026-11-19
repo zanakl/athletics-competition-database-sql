@@ -60,5 +60,5 @@ Upiti obuhvaćaju:
 - Normalizacija baza podataka
 
 ## Dokumenti
-- database_design_and_normalization.pdf
-- sql_queries.pdf
+- `database_design_and_normalization.pdf`
+- `sql_queries.pdf`
